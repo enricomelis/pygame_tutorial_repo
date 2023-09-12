@@ -1,4 +1,8 @@
+.empty/
+build/
+dist/
+PygameForBeginners-main/
 chatgpt_trial.py
 main.ipynb
+main.spec
 PygameForBeginners-main.zip
-PygameForBeginners-main
