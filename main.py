@@ -107,8 +107,6 @@ def draw_winner(text):
     pygame.display.update()
     pygame.time.delay(5000)
 
-# main function
-
 def main():
     red = pygame.Rect(600, 100, SPACESHIP_WIDTH, SPACESHIP_HEIGHT)
     yellow = pygame.Rect(200, 100, SPACESHIP_WIDTH, SPACESHIP_HEIGHT)
