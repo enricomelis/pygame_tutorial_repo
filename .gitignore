@@ -1,6 +1,5 @@
 .empty/
 build/
-dist/
 PygameForBeginners-main/
 chatgpt_trial.py
 main.ipynb
